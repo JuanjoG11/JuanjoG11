@@ -1,5 +1,5 @@
 # 👋 Hola, soy Juan José Colorado Gutiérrez
-## 💼 Junior Full Stack Developer | React • SQL/NOSQL • Py 
+## 💼 Junior Full Stack Developer 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjocgdev-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juanjocgdev)
 ---
 ## 🚀 Sobre Mí
