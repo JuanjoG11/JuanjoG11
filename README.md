@@ -11,10 +11,15 @@ Desarrollador Full Stack Junior apasionado por aprender y crear soluciones web. 
 Sistema de gestión de fletes con dashboard en tiempo real
 **Tech Stack**: React, VainillaJs, Supabase
 [Ver Proyecto](https://github.com/JuanjoG11/Fletesapp)
-### 📊 AppIndicadores
+### 📊 ZENTRA
 Plataforma de análisis de indicadores empresariales
 **Tech Stack**: React, TypeScript, Supabase
 [Ver Proyecto](https://github.com/JuanjoG11/AppIndicadores)
+### 🔄 AppDevoluciones
+Sistema de gestión de devoluciones de productos
+**Tech Stack**: Html, Css, Js, Supabase
+[Ver Proyecto](https://github.com/JuanjoG11/Devoluciones)
+
 ### 👟 TenisYMas
 E-commerce de productos deportivos
 **Tech Stack**: Html, Css, Js, Supabase
