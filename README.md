@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjocgdev-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juanjocgdev)
 ---
 ## 🚀 Sobre Mí
-Desarrollador Full Stack Junior apasionado por aprender y crear soluciones web. Especializado en aplicaciones empresariales con React y Laravel. Con experiencia en proyectos reales de gestión, e-commerce y dashboards analíticos.
+Desarrollador Full Stack Junior apasionado por aprender y crear soluciones web. Especializado en aplicaciones empresariales. Con experiencia en proyectos reales de gestión, e-commerce y dashboards analíticos.
 💡 **Enfoque**: Aprendizaje continuo, código limpio y mejores prácticas
 ---
 ## 🎯 Proyectos Destacados
